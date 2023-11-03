@@ -1,0 +1,27 @@
+* {
+    color: white;
+}
+
+th {
+    color: black;
+}
+
+body {
+    background-color: midnightblue;
+}
+
+h1 {
+    color: gold;
+}
+
+.tulisan {
+    font-size: 20px;
+}
+
+.menu {
+    text-decoration: none;
+}
+
+#deskripsi {
+    color: gray;
+}
